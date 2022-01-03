@@ -1,0 +1,1 @@
+execute store result entity @s Health float 1 run scoreboard players get health ed.settings
